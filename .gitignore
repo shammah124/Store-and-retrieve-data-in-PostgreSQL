@@ -1,0 +1,43 @@
+# Node modules (dependency directory)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+*.swp
+*.bak
+*.tmp
+
+# Coverage reports
+coverage/
+
+# Build artifacts (optional if you compile TypeScript, Babel, etc.)
+dist/
+
+# Database
+*.sqlite
+*.db
+
+# Optional: Thunder Client environment or history
+.thunder client/
+
+# Optional: Ignore compiled JS files if you're using TypeScript
+*.tsbuildinfo
