@@ -88,6 +88,8 @@ expressandpostgresql/
         image-4.png
         image-5.png
         image-6.png
+    middleware/
+        errorHandler.js
     routes/
         users.js
     app.js
@@ -100,6 +102,8 @@ expressandpostgresql/
 -   Full CRUD (Create, Read, Update, Delete) functionality
 
 -   Global error handling
+
+-   Input Validation
 
 -   404 handling for invalid routes
 
